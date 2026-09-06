@@ -29,24 +29,23 @@
 ## ⚔️ Arsenal Tecnológico
 
 <p align="left">
+  <!-- Core & Sistemas -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br/>
+  <!-- Fundamentos Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <!-- Separador Degradê Colorido -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d006b,35:0052cc,70:00e5ff,100:00ff88&height=70&section=footer" width="100%"/>
 
 ## 📊 Estatísticas & Atividade
-
-<div align="center">
-  <!-- Gráfico de Linha de Contribuições Colorido e Fluido -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroh-marques&bg_color=0d1117&color=00ff88&line=00e5ff&point=ffffff&area=true&hide_border=true" width="95%" />
-</div>
-
-<br/>
 
 <div align="center">
   <!-- Card de Sequência (Streak) com detalhes em Ciano e Neon -->
