@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- Texto Rápido Animado (Velocidade Aumentada: 1.8s de digitação e pausa curta de 500ms) -->
+<!-- Texto Rápido Animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=650&lines=Pedro+Marques;Cybersecurity+Focus;Defesa+Cibern%C3%A9tica;Engenharia+de+Software;Redes+%26+Linux+Security)](https://git.io/typing-svg)
 
 </div>
@@ -50,6 +50,22 @@
 <div align="center">
   <!-- Card de Sequência (Streak) com detalhes em Ciano e Neon -->
   <img src="https://streak-stats.demolab.com/?user=pedroh-marques&theme=tokyonight&hide_border=true&border_radius=8&background=0d1117&ring=00e5ff&fire=00ff88&currStreakNum=00ff88&sideNums=ffffff&dates=8892b0" />
+</div>
+
+<!-- Separador Degradê Colorido -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,35:00e5ff,70:0052cc,100:2d006b&height=70&section=footer" width="100%"/>
+
+<div align="center">
+
+## 📬 Contato
+
+<a href="https://wa.me/5545998204340" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:ph102038@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 <!-- Rodapé Degradê Colorido Final -->
